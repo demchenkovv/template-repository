@@ -12,7 +12,7 @@
     <description>Maven template</description>
 
 <!--	Путь к репозиторию проекта, откуда его можно скачать-->
-	<url>https://github.com/demchenkovv/my-first-telegram-bot</url>
+	<url>https://github.com/demchenkovv/template-repository</url>
 
 <!--	Лицензия, под которой этот проект распространяется. Причем она может быть не одна, и поэтому задать нужно таким образом:-->
 	<licenses>
@@ -34,9 +34,9 @@
 
 <!--	Блок scm, который описывает, как можно получить доступ к проекту:-->
 	<scm>
-		<connection>git@github.com:demchenkovv/my-first-telegram-bot.git</connection>
-		<developerConnection>git@github.com:demchenkovv/my-first-telegram-bot.git</developerConnection>
-		<url>https://github.com/demchenkovv/my-first-telegram-bot</url>
+		<connection>git@github.com:demchenkovv/template-repository.git</connection>
+		<developerConnection>git@github.com:demchenkovv/template-repository.git</developerConnection>
+		<url>https://github.com/demchenkovv/template-repository</url>
 	</scm>
 
 	<properties>
