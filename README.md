@@ -1,5 +1,5 @@
 ## Overview
-The repository is designed for rapid deployment of Spring Boot applications using Maven.
+The repository template on Мaven.
 
 ## Building
 ...
