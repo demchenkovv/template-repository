@@ -8,7 +8,7 @@
     <artifactId>template-repository</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-    <name>Repository template without Spring Boot</name>
+    <name>Repository template</name>
     <description>Maven template</description>
 
 <!--	Путь к репозиторию проекта, откуда его можно скачать-->
