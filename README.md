@@ -1,8 +1,10 @@
 ## Overview
-The repository template on Мaven.
+Repository creates for fast running development process with configuration, which are the same from project to project.
 
 ## Building
-...
+Run next commands to see and understand the abilities of this tool:
+* step 1
+* step 2
 
 ## Troubleshooting
 ...
